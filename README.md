@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sand199
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Unsupervised Learning.
+- 🌱 I’m currently building data analytics tools for Nepal's Stock Market.
 - 💞️ I’m looking to collaborate on anything fascinating really. Just shoot me a DM.
 - 📫 How to reach me contact@sandip-bhattarai.com.np
 
